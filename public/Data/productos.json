@@ -1,0 +1,162 @@
+[
+      {
+            "id": 1,
+            "idCategoria": 1,
+            "nombre": "LEGO HARRY POTTER",
+            "marca": "LEGO",
+            "modelo": "HP",
+            "precio": 2800,
+            "stock": 32,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/P1.jpg?alt=media&token=f5f5ba36-bb7b-4ee8-94b7-7f71de2efd33"
+      },
+      {
+            "id": 2,
+            "idCategoria": 4,
+            "nombre": "CAJA MUSICAL",
+            "marca": "MusicBox",
+            "version": "Beast",
+            "precio": 1200,
+            "stock": 30,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/cajamusical.jpg?alt=media&token=47ba6379-2696-44f0-878b-d7f6d2916071"
+      },
+      {
+            "id": 3,
+            "idCategoria": 4,
+            "nombre": "BILLETERA HOMBRE",
+            "marca": "BILLETERA",
+            "version": "2023",
+            "precio": 1200,
+            "stock": 30,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/billetera.jpg?alt=media&token=8e3525b3-007f-4d96-a3ce-f0e657c51d3d"
+      },
+      {
+            "id": 4,
+            "idCategoria": 2,
+            "nombre": "CUENTO DE HADAS",
+            "marca": "Stephen King",
+            "modelo": "Libro",
+            "precio": 2000,
+            "stock": 5,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/KING.jpg?alt=media&token=7093ceb3-fd0b-4b49-bfe4-026264138417"
+      },
+      {
+            "id": 5,
+            "idCategoria": 1,
+            "nombre": "BARBIE",
+            "marca": "MATELL",
+            "modelo": "varios Diseños",
+            "precio": 1200,
+            "stock": 40,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/P2.jpg?alt=media&token=065cec60-a951-4c1e-b0c6-1fe7bed2628d"
+      },
+      {
+            "id": 6,
+            "idCategoria": 3,
+            "nombre": "MARCADORES FABER CASTELL",
+            "marca": "FABER CASTELL",
+            "modelo": "marcadores",
+            "precio": 1000,
+            "stock": 50,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/FABER.jpg?alt=media&token=8b8b4dd2-7d0c-41fe-a9d6-01279a7b7db0"
+      },
+      {
+            "id": 7,
+            "idCategoria": 3,
+            "nombre": "BLOCK HOJAS CABALLITO 1/2",
+            "marca": "CABALLITO",
+            "modelo": "HOJAS",
+            "precio": 399,
+            "stock": 10,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/CABALLITO.jpg?alt=media&token=ee3e1c91-134c-4391-aa06-d77038acd22c"
+      },
+      {
+            "id": 8,
+            "idCategoria": 2,
+            "nombre": "CANCION DE HIELO Y FUEGO",
+            "marca": "Juego de Tronos",
+            "modelo": "J.RR.Martin",
+            "precio": 5800,
+            "stock": 4,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/PACK.jpg?alt=media&token=68eb196c-69a5-4d5e-8396-95d8aa6b5b08"
+      },
+      {
+            "id": 9,
+            "idCategoria": 2,
+            "nombre": "JUEGOS DEL HAMBRE SAGA",
+            "marca": "JH",
+            "modelo": "Hambre",
+            "precio": 3000,
+            "stock": 10,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/hambre.jpg?alt=media&token=0c6ce2d4-09b2-45f0-a6a8-1659ace4896e"
+      },
+      {
+            "id": 10,
+            "idCategoria": 3,
+            "nombre": "LAPIZ DIBUJO",
+            "marca": "FABER CASTELL",
+            "modelo": "CASTELL",
+            "precio": 675,
+            "stock": 28,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/CASTELL.jpg?alt=media&token=3787cc77-858e-4293-b40d-894703ca9286"
+      },
+      {
+            "id": 11,
+            "idCategoria": 2,
+            "nombre": "Saga Harry Potter + Estante de libro madera",
+            "marca": "Harry Potter",
+            "modelo": "J.K.Rowling",
+            "precio": 38000,
+            "stock": 4,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/SAGA.jpg?alt=media&token=00894e69-5def-47d2-aa9a-c7734befd6e6"
+      },
+      {
+            "id": 12,
+            "idCategoria": 1,
+            "nombre": "PLAY STATION 5",
+            "marca": "PS5",
+            "modelo": "PS5",
+            "precio": 78000,
+            "stock": 10,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/P4.jpg?alt=media&token=b1895bc9-2998-4780-9823-301ba1a443ea"
+      },
+      {
+            "id": 13,
+            "idCategoria": 1,
+            "nombre": "HOT WHEELS",
+            "marca": "MATTEL",
+            "modelo": "HOT WHEELS",
+            "precio": 700,
+            "stock": 29,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/P3.jpg?alt=media&token=0d84015d-7173-40dd-9dd1-4128129b2cad"
+      },
+      {
+            "id": 14,
+            "idCategoria": 3,
+            "nombre": "LAPICERAS PILOT X4",
+            "marca": "PILOT",
+            "modelo": "BRILLO",
+            "precio": 430,
+            "stock": 200,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/PILOT.jpg?alt=media&token=01a2f41c-00fd-46e3-a9dd-fdda3005c0b1"
+      },
+      {
+            "id": 15,
+            "idCategoria": 4,
+            "nombre": "CARTERA DAMA",
+            "marca": "MCartera",
+            "version": "2023",
+            "precio": 2800,
+            "stock": 10,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/carteradama.jpg?alt=media&token=8badfeb9-e07b-4e7a-9d90-8a6e83c0a126"
+      },
+      {
+            "id": 16,
+            "idCategoria": 4,
+            "nombre": "JARRONES FINOS",
+            "marca": "Jarras",
+            "version": "2024",
+            "precio": 3000,
+            "stock": 5,
+            "img": "https://firebasestorage.googleapis.com/v0/b/react2023coder.appspot.com/o/jarrones.jpg?alt=media&token=e5fef1d0-65aa-4cb8-9cbe-837ec742e6e8"
+      }
+]
